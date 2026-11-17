@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://corta-app.github.io/corta/"><b>Conocer Corta</b></a> ·
+  <a href="https://github.com/corta-app/corta/releases/latest/download/Corta-macOS.zip"><b>Descargar para Mac</b></a> ·
+  <a href="https://corta-app.github.io/corta/">Conocer Corta</a> ·
   <a href="https://github.com/corta-app/corta">Código</a> ·
   <a href="https://github.com/corta-app/corta-catalogo">Efectos, estilos y plantillas</a> ·
   <a href="https://github.com/corta-app/corta/discussions">Comunidad</a> ·
@@ -17,4 +18,4 @@
 
 ---
 
-<p align="center"><sub><b>English:</b> free, open-source editor for Shorts, Reels and TikTok. Edit the text and the video follows: animated captions, no silences or filler words, effects, templates and your own AI. Videos never leave your computer, no watermark.</sub></p>
+<p align="center"><sub><b>English:</b> free, open-source editor for Shorts, Reels and TikTok. Edit the text and the video follows: animated captions, no silences or filler words, effects, templates and your own AI. Videos never leave your computer, no watermark. <a href="https://github.com/corta-app/corta/releases/latest/download/Corta-macOS.zip">Download for Mac</a>.</sub></p>
